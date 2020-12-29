@@ -5,7 +5,7 @@
     }
   },
   riot: {
-    apiKey: '<redacted>',
+    apiKey: 'RGAPI-a0832fe8-941a-4236-aa33-543ccc832055',
     baseURL: 'https://na1.api.riotgames.com',
   }
 }

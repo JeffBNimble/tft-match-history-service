@@ -18,4 +18,4 @@ async function handleGetTFTSummoner(req, res) {
   }
 }
 
-export { getTFTRoutes }
+export { getTFTRoutes, handleGetTFTSummoner }
